@@ -14,7 +14,7 @@ public class RemoveAllOccuredElement {
 
         System.out.println("The New Sub Array : ");
         for (int i=0; i <tempSz; i++) {
-            System.out.print(temp[i]);
+            System.out.print(temp[i]+" ");
         }
     }
     public static void main(String[] args) {
